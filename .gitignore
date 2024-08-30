@@ -1,0 +1,23 @@
+# Binaries
+**/bin/
+!**/SFML-2.6.0/**/*
+bin-int/
+Intermediates/
+
+# VS files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+# CLion files
+.idea/
+
+# VSCode files
+.run/
+.vscode/
+
+# Makefiles
+Makefile
